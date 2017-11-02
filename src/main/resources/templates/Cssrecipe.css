@@ -1,0 +1,21 @@
+.navbar-inverse {
+    background: #0000FF;
+    color: #0000FF;
+
+}
+.picture{
+    height:300px;
+    width:300px;
+}
+.Flag{
+    height: 200px;
+    width:200px;
+}
+.Foodpictures{
+    height: 500px;
+    width :600px;
+}
+.homepagepicture {
+    height: 900px;
+    width:1200px;
+ }
