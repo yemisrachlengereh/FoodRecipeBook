@@ -1,7 +1,14 @@
-.navbar-inverse {
+.collapse navbar-collapse {
     background: #0000FF;
     color: #0000FF;
 
+}
+
+#blue {
+    background: #0000FF;
+}
+#pink{
+    background:#8B0000 ;
 }
 .picture{
     height:300px;
@@ -13,9 +20,16 @@
 }
 .Foodpictures{
     height: 500px;
-    width :600px;
+    width :400px;
 }
 .homepagepicture {
     height: 900px;
     width:1200px;
  }
+.Eggsauce{
+    hight:600px;
+    width:570px;
+}
+.right{
+    text-align: right;
+}
